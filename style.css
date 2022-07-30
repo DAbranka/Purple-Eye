@@ -1,0 +1,43 @@
+body {
+  background-color: rgb(10, 10, 10);
+  background-image: url();
+  background-repeat: no-repeat;
+  background-size: 1920px 1280px;
+}
+
+#thebloc {
+  width: 90%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  margin: auto;
+  margin-top: 100px;
+}
+
+#purple_eye {
+  /* border-radius: 35px; */
+  border: solid rgb(255, 50, 111);
+  border-width: 10px;
+  margin: 100px;
+  /* box-shadow: 0px 10px rgb(238, 212, 97); */
+}
+
+#ranka {
+  background-color: rgb(10, 10, 10);
+  font-family: "Prata", serif;
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: 6px;
+  width: 690px;
+  padding: 30px;
+  padding-top: 85px;
+  padding-bottom: 85px;
+  color: rgb(230, 216, 154);
+  border: solid;
+  border-width: 10px;
+}
+
+#psych {
+  color: rgb(255, 50, 111);
+}
